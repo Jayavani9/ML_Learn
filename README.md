@@ -28,3 +28,5 @@ https://www.udemy.com/course/data-science-and-machine-learning-with-python-hands
 https://github.com/codebasics/math-for-machine-learning/blob/main/3_normal_distribution/normal_distribution.ipynb
 
 https://github.com/codebasics/math-for-machine-learning/blob/main/3_normal_distribution/Exercise/exercise.md
+
+https://www.youtube.com/watch?v=NpmPYVGqMg4&t=1s
