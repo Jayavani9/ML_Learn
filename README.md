@@ -32,3 +32,5 @@ https://github.com/codebasics/math-for-machine-learning/blob/main/3_normal_distr
 https://www.youtube.com/watch?v=NpmPYVGqMg4&t=1s
 
 https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data/data
+
+https://www.youtube.com/watch?v=FLUfWUkbyUQ - Covariance and Correlation
