@@ -36,3 +36,5 @@ https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data/data  - 
 https://www.youtube.com/watch?v=FLUfWUkbyUQ - Covariance and Correlation  
 
 https://aws.amazon.com/what-is/recurrent-neural-network/#:~:text=A%20recurrent%20neural%20network%20(RNN,complex%20semantics%20and%20syntax%20rules. - RNN
+
+https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/ - Transformers
