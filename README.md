@@ -39,4 +39,4 @@ https://aws.amazon.com/what-is/recurrent-neural-network/#:~:text=A%20recurrent%2
 
 https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/ - Transformers
 
-https://aws.amazon.com/what-is/linear-regression/ - Linear Regression 
+https://www.analyticsvidhya.com/blog/2021/10/everything-you-need-to-know-about-linear-regression/ - Linear Regression 
